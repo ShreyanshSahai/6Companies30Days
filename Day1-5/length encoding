@@ -11,3 +11,6 @@ def encode(arr):
         res += temp + str(count_)
         i += 1
     return res
+
+
+#Python
